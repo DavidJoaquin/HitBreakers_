@@ -1,0 +1,27 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = MMD Stuff\Effect\PostRimLighting\PostRimLighting2D\PostRimLighting2D.x
+Pmd2 = C:\Users\USER\Downloads\Robin(Male)\Robin.pmx
+
+[Effect]
+Default = none
+Pmd2 = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Soft (2).fx
+Pmd2.show = true
+Pmd2[0] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\eye-N.fx
+Pmd2[4] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Neck-Hood-N.fx
+Pmd2[5] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\hair.fx
+Pmd2[7] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd2[8] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd2[9] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd2[10] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd2[11] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd2[12] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd2[13] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Neck-Hood-N.fx
+
+[Effect@PRL_AdditiveRT]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = MMD Stuff\Effect\PostRimLighting\PostRimLighting2D\PRL_VisibleMask.fx
+

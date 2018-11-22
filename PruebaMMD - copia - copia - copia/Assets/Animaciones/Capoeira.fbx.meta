@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: bf7de067cfd41e94d95b9b2e36a3a281
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BangL
+    100004: BangLEX
+    100006: BangMid
+    100008: BangMidEX
+    100010: BangR
+    100012: BangREX
+    100014: Body
+    100016: Cape_0_1
+    100018: Cape_0_2
+    100020: Cape_0_3
+    100022: Cape_0_4
+    100024: Cape_0_5
+    100026: Cape_0_6
+    100028: Cape_0_7
+    100030: Cape_0_8
+    100032: Cape_0_9
+    100034: Cape_1_1
+    100036: Cape_1_2
+    100038: Cape_1_3
+    100040: Cape_1_4
+    100042: Cape_1_5
+    100044: Cape_1_6
+    100046: Cape_1_7
+    100048: Cape_1_8
+    100050: Cape_1_9
+    100052: Cape_2_1
+    100054: Cape_2_2
+    100056: Cape_2_3
+    100058: Cape_2_4
+    100060: Cape_2_5
+    100062: Cape_2_6
+    100064: Cape_2_7
+    100066: Cape_2_8
+    100068: Cape_2_9
+    100070: Cape_3_1
+    100072: Cape_3_2
+    100074: Cape_3_3
+    100076: Cape_3_4
+    100078: Cape_3_5
+    100080: Cape_3_6
+    100082: Cape_3_7
+    100084: Cape_3_8
+    100086: Cape_3_9
+    100088: Cape_4_1
+    100090: Cape_4_2
+    100092: Cape_4_3
+    100094: Cape_4_4
+    100096: Cape_4_5
+    100098: Cape_4_6
+    100100: Cape_4_7
+    100102: Cape_4_8
+    100104: Cape_4_9
+    100106: Cape_5_1
+    100108: Cape_5_2
+    100110: Cape_5_3
+    100112: Cape_5_4
+    100114: Cape_5_5
+    100116: Cape_5_6
+    100118: Cape_5_7
+    100120: Cape_5_8
+    100122: Cape_5_9
+    100124: Cape_6_1
+    100126: Cape_6_2
+    100128: Cape_6_3
+    100130: Cape_6_4
+    100132: Cape_6_5
+    100134: Cape_6_6
+    100136: Cape_6_7
+    100138: Cape_6_8
+    100140: Cape_6_9
+    100142: Cape_7_1
+    100144: Cape_7_2
+    100146: Cape_7_3
+    100148: Cape_7_4
+    100150: Cape_7_5
+    100152: Cape_7_6
+    100154: Cape_7_7
+    100156: Cape_7_8
+    100158: Cape_7_9
+    100160: Cape_8_1
+    100162: Cape_8_2
+    100164: Cape_8_3
+    100166: Cape_8_4
+    100168: Cape_8_5
+    100170: Cape_8_6
+    100172: Cape_8_7
+    100174: Cape_8_8
+    100176: Cape_8_9
+    100178: //RootNode
+    100180: Chest
+    100182: ChestString00
+    100184: ChestString01
+    100186: ChestString02
+    100188: ChestString03
+    100190: ChestString04
+    100192: ChestString05
+    100194: Eye_L
+    100196: Eye_R
+    100198: Head
+    100200: Hips
+    100202: Hood1
+    100204: Hood2
+    100206: Hood3
+    100208: HoodL
+    100210: HoodR
+    100212: HoodRoot
+    100214: IndexFinger1_L
+    100216: IndexFinger1_R
+    100218: IndexFinger2_L
+    100220: IndexFinger2_R
+    100222: IndexFinger3_L
+    100224: IndexFinger3_R
+    100226: Jnt_141
+    100228: Left ankle
+    100230: Left arm
+    100232: Left elbow
+    100234: Left knee
+    100236: Left leg
+    100238: Left shoulder
+    100240: Left toe
+    100242: Left wrist
+    100244: LittleFinger1_L
+    100246: LittleFinger1_R
+    100248: LittleFinger2_L
+    100250: LittleFinger2_R
+    100252: LittleFinger3_L
+    100254: LittleFinger3_R
+    100256: MiddleFinger1_L
+    100258: MiddleFinger1_R
+    100260: MiddleFinger2_L
+    100262: MiddleFinger2_R
+    100264: MiddleFinger3_L
+    100266: MiddleFinger3_R
+    100268: Neck
+    100270: Right ankle
+    100272: Right arm
+    100274: Right elbow
+    100276: Right knee
+    100278: Right leg
+    100280: Right shoulder
+    100282: Right toe
+    100284: Right wrist
+    100286: RingFinger1_L
+    100288: RingFinger1_R
+    100290: RingFinger2_L
+    100292: RingFinger2_R
+    100294: RingFinger3_L
+    100296: RingFinger3_R
+    100298: Spine
+    100300: Thumb0_L
+    100302: Thumb0_R
+    100304: Thumb1_L
+    100306: Thumb1_R
+    100308: Thumb2_L
+    100310: Thumb2_R
+    400000: Armature
+    400002: BangL
+    400004: BangLEX
+    400006: BangMid
+    400008: BangMidEX
+    400010: BangR
+    400012: BangREX
+    400014: Body
+    400016: Cape_0_1
+    400018: Cape_0_2
+    400020: Cape_0_3
+    400022: Cape_0_4
+    400024: Cape_0_5
+    400026: Cape_0_6
+    400028: Cape_0_7
+    400030: Cape_0_8
+    400032: Cape_0_9
+    400034: Cape_1_1
+    400036: Cape_1_2
+    400038: Cape_1_3
+    400040: Cape_1_4
+    400042: Cape_1_5
+    400044: Cape_1_6
+    400046: Cape_1_7
+    400048: Cape_1_8
+    400050: Cape_1_9
+    400052: Cape_2_1
+    400054: Cape_2_2
+    400056: Cape_2_3
+    400058: Cape_2_4
+    400060: Cape_2_5
+    400062: Cape_2_6
+    400064: Cape_2_7
+    400066: Cape_2_8
+    400068: Cape_2_9
+    400070: Cape_3_1
+    400072: Cape_3_2
+    400074: Cape_3_3
+    400076: Cape_3_4
+    400078: Cape_3_5
+    400080: Cape_3_6
+    400082: Cape_3_7
+    400084: Cape_3_8
+    400086: Cape_3_9
+    400088: Cape_4_1
+    400090: Cape_4_2
+    400092: Cape_4_3
+    400094: Cape_4_4
+    400096: Cape_4_5
+    400098: Cape_4_6
+    400100: Cape_4_7
+    400102: Cape_4_8
+    400104: Cape_4_9
+    400106: Cape_5_1
+    400108: Cape_5_2
+    400110: Cape_5_3
+    400112: Cape_5_4
+    400114: Cape_5_5
+    400116: Cape_5_6
+    400118: Cape_5_7
+    400120: Cape_5_8
+    400122: Cape_5_9
+    400124: Cape_6_1
+    400126: Cape_6_2
+    400128: Cape_6_3
+    400130: Cape_6_4
+    400132: Cape_6_5
+    400134: Cape_6_6
+    400136: Cape_6_7
+    400138: Cape_6_8
+    400140: Cape_6_9
+    400142: Cape_7_1
+    400144: Cape_7_2
+    400146: Cape_7_3
+    400148: Cape_7_4
+    400150: Cape_7_5
+    400152: Cape_7_6
+    400154: Cape_7_7
+    400156: Cape_7_8
+    400158: Cape_7_9
+    400160: Cape_8_1
+    400162: Cape_8_2
+    400164: Cape_8_3
+    400166: Cape_8_4
+    400168: Cape_8_5
+    400170: Cape_8_6
+    400172: Cape_8_7
+    400174: Cape_8_8
+    400176: Cape_8_9
+    400178: //RootNode
+    400180: Chest
+    400182: ChestString00
+    400184: ChestString01
+    400186: ChestString02
+    400188: ChestString03
+    400190: ChestString04
+    400192: ChestString05
+    400194: Eye_L
+    400196: Eye_R
+    400198: Head
+    400200: Hips
+    400202: Hood1
+    400204: Hood2
+    400206: Hood3
+    400208: HoodL
+    400210: HoodR
+    400212: HoodRoot
+    400214: IndexFinger1_L
+    400216: IndexFinger1_R
+    400218: IndexFinger2_L
+    400220: IndexFinger2_R
+    400222: IndexFinger3_L
+    400224: IndexFinger3_R
+    400226: Jnt_141
+    400228: Left ankle
+    400230: Left arm
+    400232: Left elbow
+    400234: Left knee
+    400236: Left leg
+    400238: Left shoulder
+    400240: Left toe
+    400242: Left wrist
+    400244: LittleFinger1_L
+    400246: LittleFinger1_R
+    400248: LittleFinger2_L
+    400250: LittleFinger2_R
+    400252: LittleFinger3_L
+    400254: LittleFinger3_R
+    400256: MiddleFinger1_L
+    400258: MiddleFinger1_R
+    400260: MiddleFinger2_L
+    400262: MiddleFinger2_R
+    400264: MiddleFinger3_L
+    400266: MiddleFinger3_R
+    400268: Neck
+    400270: Right ankle
+    400272: Right arm
+    400274: Right elbow
+    400276: Right knee
+    400278: Right leg
+    400280: Right shoulder
+    400282: Right toe
+    400284: Right wrist
+    400286: RingFinger1_L
+    400288: RingFinger1_R
+    400290: RingFinger2_L
+    400292: RingFinger2_R
+    400294: RingFinger3_L
+    400296: RingFinger3_R
+    400298: Spine
+    400300: Thumb0_L
+    400302: Thumb0_R
+    400304: Thumb1_L
+    400306: Thumb1_R
+    400308: Thumb2_L
+    400310: Thumb2_R
+    2100000: Eyes
+    2100002: Hairshine
+    2100004: HoodFull
+    2100006: Hair
+    2100008: Hood
+    4300000: Body
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+[Info]
+Version = 3
+
+[Object]
+Pmd1 = C:\Users\USER\Downloads\Robin(Male)\Robin.pmx
+Pmd2 = C:\Users\USER\Downloads\Robin(Male)\Robin's Weapons\sword.pmx
+Pmd3 = C:\Users\USER\Downloads\Robin(Male)\Robin's Weapons\book.pmx
+
+[Effect]
+Default = MMD Stuff\Soft.fx
+Pmd1 = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Soft (2).fx
+Pmd1.show = true
+Pmd1[0] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\eye-N.fx
+Pmd1[4] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Neck-Hood-N.fx
+Pmd1[5] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\hair.fx
+Pmd1[7] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd1[8] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd1[9] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd1[10] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd1[11] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd1[12] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Clothing-N.fx
+Pmd1[13] = C:\Users\USER\Downloads\Robin(Male)\NormalMaps\Neck-Hood-N.fx
+Pmd2 = C:\Users\USER\Downloads\Robin(Male)\Robin's Weapons\sword.fx
+Pmd3 = C:\Users\USER\Downloads\Robin(Male)\Robin's Weapons\book.fx
+

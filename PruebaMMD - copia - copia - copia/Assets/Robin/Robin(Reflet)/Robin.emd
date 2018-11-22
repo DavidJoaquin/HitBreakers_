@@ -1,0 +1,17 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = NormalMaps\Soft (2).fx
+Obj.show = true
+Obj[0] = NormalMaps\eye-N.fx
+Obj[4] = NormalMaps\Neck-Hood-N.fx
+Obj[5] = NormalMaps\hair.fx
+Obj[7] = NormalMaps\Clothing-N.fx
+Obj[8] = NormalMaps\Clothing-N.fx
+Obj[9] = NormalMaps\Clothing-N.fx
+Obj[10] = NormalMaps\Clothing-N.fx
+Obj[11] = NormalMaps\Clothing-N.fx
+Obj[12] = NormalMaps\Clothing-N.fx
+Obj[13] = NormalMaps\Neck-Hood-N.fx
+
